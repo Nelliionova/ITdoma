@@ -1,1 +1,1 @@
-let a = 'Hello!'
+let a = 'Привет'
